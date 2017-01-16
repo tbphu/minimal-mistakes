@@ -1,0 +1,12 @@
+---
+permalink: /people/
+---
+
+
+<dl>
+	{% for person in site.people %}
+		<dt> <a href="/_people/{{person.filename}}">{{person.mytitle}} {{person.firstname}} {{person.last}}</a></dt>
+		<dd> phone: {{person.phone}} </dd>
+		<dd> email: <a href="mailto:{{person.email}}">{{person.email}}</a></dd>
+	{% endfor %}
+</dl>

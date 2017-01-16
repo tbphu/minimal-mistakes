@@ -1,0 +1,2 @@
+New publication: Using Confocal Microscopy and Computational Modeling to Investigate the Cell-Penetrating Properties of Antimicrobial Peptides Methods Mol. Biol. 1548 , 191-199.
+[link](https://www.ncbi.nlm.nih.gov/pubmed/28013505) 
