@@ -16,7 +16,7 @@ main:
   url: /teaching/
 
 - title: Contact
-  url: /conact/
+  url: /contact/
 
 foo:
   - title: "Link 1 Title"
