@@ -7,5 +7,13 @@ title: Teaching
 ## Lectures
 
 * Thermodynamik von Nichtgleichgewichtsprozessen
-** sdf
-** sdf
+  * Bachelor
+  * Mondays 12:15
+  * Großer Seminarraum
+  * Prof. Edda Klipp
+
+* Modelle zellulärer Prozesse
+  * Bachelor
+  * Fridays - 8:15
+  * Kleiner Seminarraum
+  * Dr. Jana Wolf
