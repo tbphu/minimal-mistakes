@@ -17,3 +17,9 @@ title: Teaching
   * Fridays - 8:15
   * Kleiner Seminarraum
   * Dr. Jana Wolf
+
+## Exercises
+
+* Theoretische Biophysik
+  * Master
+  * Donnerstag - 12:00
