@@ -6,7 +6,10 @@ title: Publications
 
 ### Books
 
-* Klipp, E., Liebermeister, L., Wierling, C. & Kowald, A. (2016) Systems Biology. A Textbook. (second revised edition)
+* Klipp, E., Liebermeister, L., Wierling, C. & Kowald, A. (2016) Systems Biology. A Textbook. (second revised edition) 
+
+
+![Systems Biology](/_images/SBtextbook-cover-16.JPG)
 
 ### Journal articles
 
